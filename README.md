@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rsb251298@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KLXhqLhOR6zRc1-p-bElA5U1e6HzMowN/view?usp=drive_link](https://drive.google.com/file/d/1KLXhqLhOR6zRc1-p-bElA5U1e6HzMowN/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Hhu9EA4lVZH9pkRCFIHWnqDc8nzChew-/view?usp=drive_link](https://drive.google.com/file/d/1Hhu9EA4lVZH9pkRCFIHWnqDc8nzChew-/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roshan-badarkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-badarkhe" height="30" width="40" /></a>
