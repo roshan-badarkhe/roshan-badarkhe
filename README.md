@@ -5,13 +5,13 @@
   
 - 🤝 I’m looking for a new role **Frontend Developer**
   
-- 🌱 I’m currently learning **Data Structures And Algorithm,Frontend Development**
+- 🌱 I’m currently learning **Data Structures And Algorithm,Frontend Development,React Native**
 
-- 💬 Ask me about **ReactJS,HTML,CSS,JavaScript**
+- 💬 Ask me about **ReactJS,HTML,CSS,JavaScript,Redux**
 
-- 📫 How to reach me **rsb251298@gmail.com**
+- 📫 How to reach me **roshanbadarkhe25@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hhu9EA4lVZH9pkRCFIHWnqDc8nzChew-/view?usp=drive_link](https://drive.google.com/file/d/1Hhu9EA4lVZH9pkRCFIHWnqDc8nzChew-/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PIUtxlPeTVLBCquVZSuTtXOAI-fd0geD/view?usp=drive_link])
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roshan-badarkhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-badarkhe" height="30" width="40" /></a>
